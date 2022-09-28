@@ -8,5 +8,14 @@ body {
     background-color: rgb(150, 12, 92);
     /* color:azure; */
     font-family: 'Roboto', sans-serif;
-    
-   }
+}
+
+h1 {
+    margin: 50px 0 30px;
+    text-align: center;
+}
+
+.faq-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
