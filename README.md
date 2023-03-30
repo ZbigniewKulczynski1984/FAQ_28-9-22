@@ -1,9 +1,9 @@
 # FAQ_28-9-22
 
-##Build with:
+## Build with:
 - HTML
 - CSS
 - JS
 
-##Author:
+## Author:
 Zbigniew Kulczyński
